@@ -34,7 +34,7 @@ AUTOPKGARRAY=($AUTOPKGRUN)
 DEFAULTS="/usr/bin/defaults"
 AUTOPKG="/usr/local/bin/autopkg"
 MAINPREFSDIR="/Library/Preferences"
-ADMINUSERNAME="ladmin"
+ADMINUSERNAME="admin"
 SCRIPTDIR="/usr/local/bin"
 HTPASSWD="YouNeedToChangeThis"
 
